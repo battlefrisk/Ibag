@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Ibag</string>
-    <string name="mark">Hello Mark <a href="www.facebook.com">Zuckerberg!</a></string>
+    <string name="mark">Hello Mark <a href="http://www.facebook.com">Zuckerberg!</a></string>
 </resources>
